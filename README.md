@@ -7,7 +7,8 @@
 - 문제 풀이 코드를 직접 작성하고, 주석으로 핵심 로직과 알고리즘 아이디어를 설명합니다.
 
 ## 📁 디렉터리 구조
-```src/
+```
+src/
 ├── SEC01_String/ 문자열 처리
 ├── SEC02_Array/ 배열 다루기
 ├── SEC03/
@@ -30,8 +31,8 @@
 │ └── DFS/
 │ └── BFS/ 깊이/너비 우선 탐색
 ├── SEC09_GreedyAlgorithm/ 그리디 알고리즘
-└── SEC10_DynamicProgramming/ 동적 계획법 (DP)```
-
+└── SEC10_DynamicProgramming/ 동적 계획법 (DP)
+```
 ## 📚 강의 출처
 - **강의명**: 자바(Java) 알고리즘 문제풀이 입문: 코딩테스트 대비  
 - **링크**: [https://www.inflearn.com/course/자바-알고리즘-문제풀이-코테대비](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%ED%85%8C%EB%8C%80%EB%B9%84/dashboard)
